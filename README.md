@@ -16,8 +16,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishan-pal&show_icons=true&locale=en&layout=compact" alt="kishan-pal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishan-pal&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="kishan-pal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan-pal&show_icons=true&locale=en" alt="kishan-pal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan-pal&show_icons=true&locale=en&theme=nightowl" alt="kishan-pal" /></p>
 
 <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="something"/>
